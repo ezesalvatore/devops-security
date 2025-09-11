@@ -5,6 +5,7 @@ about: Research, Recommend, Write Decision Record, Get Sign Off, and Create Impl
 title: 'DR: [NAME OF DECISION RECORD]'
 labels: 'role: missing, complexity: missing, feature: missing, size: missing'
 assignees: ''
+projects: ["@ezesalvatore's untitled project"]
 
 ---
 

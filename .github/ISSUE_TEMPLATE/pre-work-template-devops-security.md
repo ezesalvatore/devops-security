@@ -4,6 +4,8 @@ about: Newly onboarded team members should start by making this issue for themse
 title: 'Pre-work Checklist: DevOps-Security-Member: [replace brackets with your name]'
 labels: 'Complexity: Prework, Feature: Onboarding/Contributing.md, size: 1pt'
 assignees: ''
+projects: ["@ezesalvatore's untitled project"]
+
 
 ---
 

@@ -5,6 +5,7 @@ title: ''
 labels: ["role: missing", "complexity: missing", "feature: missing", "size: missing", "Draft"]
 
 assignees: ''
+projects: ["@ezesalvatore's untitled project"]
 
 ---
 
